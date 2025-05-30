@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cindy Fan</h1>
+<h1 align="center">Hi, I'm Cindy Fan - Welcome to my Github! </h1>
 <h3 align="center">Statistics and Data Science + Mathematics Honors student @ UT Austin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cindy-f&label=Profile%20views&color=0e75b6&style=flat" alt="cindy-f" /> </p>
