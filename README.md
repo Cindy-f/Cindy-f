@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on saving the planet
+- 🌱 I’m currently learning JS
+- 👯 I’m looking to collaborate on test
+
+Link to [Linkedin](https://www.linkedin.com/in/cindy-fan-/)
+  
 <!--
 **Cindy-f/Cindy-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
