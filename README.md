@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cindy-f&label=Profile%20views&color=0e75b6&style=flat" alt="cindy-f" /> </p>
 
 My primary interests are Artificial Intelligence, Machine Learning, and Computer Vision.
-In my free time, I enjoy cooking, singing, playing the guitar, and working out at the gym.
+
+In my spare time, I enjoy cooking, singing, playing the guitar, and working out at the gym.
 
 
 <h3 align="left">Languages and Tools:</h3>
