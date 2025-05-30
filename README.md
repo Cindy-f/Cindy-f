@@ -18,3 +18,5 @@ In my free time, I enjoy cooking, singing, playing the guitar, and working out a
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindy-f&show_icons=true&locale=en" alt="cindy-f" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cindy-f&" alt="cindy-f" /></p>
+
+Personal projects are coming soon...
