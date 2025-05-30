@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cindy-f&label=Profile%20views&color=0e75b6&style=flat" alt="cindy-f" /> </p>
 
-- 📫 How to reach me **cindyfan@utexas.edu**
-
-- ⚡ Fun fact **In my free time, I enjoy cooking, singing, and playing guitar.**
+My primary interests are Artificial Intelligence, Machine Learning, and Computer Vision.
+In my free time, I enjoy cooking, singing, playing the guitar, and working out at the gym.
 
 
 <h3 align="left">Languages and Tools:</h3>
