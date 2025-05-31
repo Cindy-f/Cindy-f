@@ -23,6 +23,11 @@ In my spare time, I enjoy cooking, singing, playing the guitar, and working out 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cindy-f&" alt="cindy-f" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   12 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 Disclaimer: I'm fresh on Git, and this personal website is currently under construction. 
