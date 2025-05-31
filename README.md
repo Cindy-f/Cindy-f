@@ -1,4 +1,4 @@
-# Hi, I'm Cindy Fan - Welcome to my Github! 
+# Hi, I'm Cindy Fan - Welcome to my Github 🐈‍⬛
 ### 🎓 Statistics and Data Science + Mathematics Honors student @ UT Austin
 
 My primary interests are Artificial Intelligence, Machine Learning, and Computer Vision.
