@@ -20,19 +20,6 @@ In my spare time, I enjoy cooking, singing, playing the guitar, and working out 
 </p>
 
 
-Personal projects coming soon: 
-
--Grad School Filter
-
--Spotify Playlist API
-
--AI Agent for Accessibility
-
-Disclaimer: I'm fresh on Git, and this personal website is currently under construction. 
-
-![](https://komarev.com/ghpvc/?username=Cindy-f&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/Cindy-f/Cindy-f?color=black&logo=github&style=flat-square)
-
 
 </details>
 
@@ -58,3 +45,15 @@ Python   12 mins         ██████████████████�
 
 <hr/>
 
+Personal projects coming soon: 
+
+-Grad School Filter
+
+-Spotify Playlist API
+
+-AI Agent for Accessibility
+
+Disclaimer: I'm fresh on Git, and this personal website is currently under construction. 
+
+![](https://komarev.com/ghpvc/?username=Cindy-f&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/Cindy-f/Cindy-f?color=black&logo=github&style=flat-square)
