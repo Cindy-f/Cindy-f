@@ -31,7 +31,10 @@ Python   12 mins         ██████████████████�
 
 <!--END_SECTION:waka-->
 
-Personal projects coming soon...
+Personal projects coming soon:
+-Grad School Filter
+-Spotify API
+-AI Agent 
 Disclaimer: I'm fresh on Git, and this personal website is currently under construction. 
 
 ![](https://komarev.com/ghpvc/?username=Cindy-f&style=flat-square&label=Views)
