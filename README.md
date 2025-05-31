@@ -1,8 +1,6 @@
 # Hi, I'm Cindy Fan - Welcome to my Github! 
 ### 🎓 Statistics and Data Science + Mathematics Honors student @ UT Austin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cindy-f&label=Profile%20views&color=0e75b6&style=flat" alt="cindy-f" /> </p>
-
 My primary interests are Artificial Intelligence, Machine Learning, and Computer Vision.
 
 I am currently developing a computer vision project focusing on tracking 3D guitar hand mesh.
