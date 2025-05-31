@@ -19,9 +19,6 @@ In my spare time, I enjoy cooking, singing, playing the guitar, and working out 
 <a href="https://linkedin.com/in/cindy-fan-" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"](https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg) alt="cindy-fan-" height="40" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindy-f&show_icons=true&locale=en" alt="cindy-f" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cindy-f&" alt="cindy-f" /></p>
 
 <!--START_SECTION:waka-->
 
