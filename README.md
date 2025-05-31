@@ -21,10 +21,10 @@ In my spare time, I enjoy cooking, singing, playing the guitar, and working out 
 
 
 
-</details>
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics (Click to see details) </b></summary>
+
+
+<b>:gear: &nbsp;GitHub Statistics </b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Cindy-f&hide_border=true&theme=nightowl" />
