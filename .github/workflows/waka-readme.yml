@@ -1,18 +1,33 @@
+# .github/workflows/waka-readme.yml
 name: Waka Readme
 
+# this runs every day at midnight UTC; you can modify the cron to your timezone
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master # this action name
+      # 1) Check out the repo so we can modify README.md
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2) Generate and inject WakaTime metrics into README.md
+      - name: Generate WakaTime Weekly Metrics
+        uses: athul/waka-readme@master
         with:
+          # your WakaTime API key, stored in repo secrets as WAKATIME_API_KEY
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
+
+      # 3) Commit any changes to README.md back to the repository
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update WakaTime stats
+          file_pattern: README.md
+          author_name: github-actions
+          author_email: actions@github.com
