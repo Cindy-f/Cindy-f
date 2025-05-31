@@ -47,6 +47,8 @@ Python   12 mins         ██████████████████�
 
 Personal projects coming soon: 
 
+-Crypto Market Prediction 
+
 -Grad School Filter
 
 -Spotify Playlist API
