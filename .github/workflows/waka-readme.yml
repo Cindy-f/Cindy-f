@@ -1,11 +1,12 @@
+# .github/workflows/waka-readme.yml
 name: Waka Readme
 
 on:
   push:
-    branches: [ main ]        # temporary: triggers immediately on every push
-  workflow_dispatch: {}        # enables “Run workflow” manually
+    branches: [ main ]          # temporary: triggers immediately on every push
+  workflow_dispatch: {}         # enables “Run workflow” manually
   schedule:
-    - cron: '0 0 * * *'        # runs daily at midnight UTC
+    - cron: '0 0 * * *'         # runs daily at midnight UTC
 
 jobs:
   update-readme:
@@ -17,17 +18,38 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 2) Generate and inject WakaTime metrics into README.md
-      - name: Generate WakaTime Weekly Metrics
-        uses: athul/waka-readme@master
+      # 2) Generate and inject WakaTime metrics into README.md (with custom options)
+      - name: Generate WakaTime Metrics & Commit
+        uses: athul/waka-readme@master       # ▶ do NOT replace with anything else
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # ──────── Authentication ─────────
+          GH_TOKEN:         ${{ secrets.GH_TOKEN }}           # optional if you want the action to push commits
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}    # required
 
-      # 3) Commit any README.md changes back to main
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update WakaTime stats
-          file_pattern: README.md
-          author_name: github-actions
-          author_email: actions@github.com
+          # ─────────── Meta ───────────
+          API_BASE_URL: https://wakatime.com/api              # optional (defaults to https://wakatime.com/api)
+          REPOSITORY:   Cindy-f/Cindy-f                       # optional: your GitHub username/repo
+
+          # ────────── Content Options ─────────
+          SHOW_TITLE:         true      # show the “## Your WakaTime Stats” title
+          SECTION_NAME:       waka      # heading under which metrics are injected
+          CODE_LANG:          rust      # only show “rust” in the language bars, adjust as needed
+          TIME_RANGE:         all_time  # one of: today, yesterday, week, month, year, all_time
+          LANG_COUNT:         10        # how many languages to display
+          SHOW_TIME:          true      # show the time spent (e.g. “5 hrs 32 mins”)
+          SHOW_TOTAL:         true      # show a total bar at the bottom
+          SHOW_MASKED_TIME:   false     # hide “masked” time if privacy mode is on
+          STOP_AT_OTHER:      true      # group all “other” languages under “Other”
+
+          IGNORED_LANGUAGES:   YAML JSON TOML  # list of languages to ignore
+
+          # ────────── Commit Options ───────────
+          COMMIT_MESSAGE:  Updated waka-readme graph with new metrics  # default: Update WakaTime stats
+          TARGET_BRANCH:   main                # branch to push README.md changes to
+          TARGET_PATH:     README.md           # where to inject the generated content
+          COMMITTER_NAME:  GitHubActionBot     # name that shows up on the commit
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME:     Your Name Here      # optional: if you want it to appear as “Author”
+          AUTHOR_EMAIL:    your@email.com       # optional: ditto
+
+      # (No separate git-auto-commit-action is needed—athul/waka-readme takes care of committing)
