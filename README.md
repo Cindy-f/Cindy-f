@@ -7,7 +7,8 @@ I am currently developing a computer vision project focusing on tracking 3D guit
 
 In my spare time, I enjoy cooking, singing, playing the guitar, and working out at the gym.
 
-![a building](https://github.com/Cindy-f/Cindy-f/raw/main/guitar_image.jpg)
+![Guitar hand mesh](https://raw.githubusercontent.com/Cindy-f/Cindy-f/main/guitar_image.JPG)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
