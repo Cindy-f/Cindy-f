@@ -22,5 +22,3 @@ In my spare time, I enjoy cooking, singing, playing the guitar, and working out 
 
 Disclaimer: I'm fresh on Git, and this personal website is currently under construction. 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
