@@ -3,7 +3,7 @@
 
 My primary interests are Artificial Intelligence, Machine Learning, and Computer Vision.
 
-I am currently developing a computer vision project focusing on tracking 3D guitar hand mesh.
+I am currently developing a computer vision project focusing on reconstracting guitar players' hand motion based on 3D hand mesh.
 
 In my spare time, I enjoy cooking, singing, playing the guitar, and working out at the gym.
 
