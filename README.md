@@ -23,23 +23,19 @@ In my spare time, I enjoy cooking, singing, playing the guitar, and working out 
 
 
 
-
 <b>:gear: &nbsp;GitHub Statistics </b></summary>
   <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Cindy-f&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Cindy-f&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-    </p>
+  <p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Cindy-f&hide_border=true&theme=nightowl" />
+  </p>
+  <p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Cindy-f&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+  </p>
+  <p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cindy-f&layout=compact&hide=jupyter%20notebook&theme=nightowl" />
+  </p>
 
-<!--START_SECTION:waka-->
 
-```txt
-Python   12 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 </details>
 
@@ -53,9 +49,13 @@ Personal projects coming soon:
 
 -Spotify Playlist API
 
+
+
 -AI Agent for Accessibility
 
 Disclaimer: I'm fresh on Git, and this personal website is currently under construction. (Date created: 05/30/25)
 
 ![](https://komarev.com/ghpvc/?username=Cindy-f&style=flat-square&label=Views)
 ![](https://badges.pufler.dev/visits/Cindy-f/Cindy-f?color=black&logo=github&style=flat-square)
+
+
