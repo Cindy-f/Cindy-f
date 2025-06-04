@@ -5,7 +5,7 @@ My primary interests are Artificial Intelligence, Machine Learning, and Computer
 
 I am currently working on a computer vision project focusing on reconstracting guitar players' hand motion based on 3D hand mesh.
 
-In my spare time, I enjoy writing, cooking, singing, playing the guitar, and working out at the gym.
+In my spare time, I enjoy volunteering, writing, cooking, singing, playing the guitar, and working out at the gym.
 
 ![Guitar hand mesh](https://raw.githubusercontent.com/Cindy-f/Cindy-f/main/guitar_image.JPG)
 
