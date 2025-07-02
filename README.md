@@ -56,6 +56,7 @@ Personal projects coming soon:
 Disclaimer: I'm fresh on Git, and this personal website is currently under construction. (Date created: 05/30/25)
 
 ![](https://komarev.com/ghpvc/?username=Cindy-f&style=flat-square&label=Views)
+
 ![](https://badges.pufler.dev/visits/Cindy-f/Cindy-f?color=black&logo=github&style=flat-square)
 
 
