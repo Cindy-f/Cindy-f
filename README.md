@@ -1,5 +1,5 @@
 # Hi, I'm Cindy Fan - Welcome to my Github 🐈‍⬛
-### 🎓 CS + Math Honors  @ UT Austin
+### 🎓 CS + SDS + Math Honors  @ UT Austin
 
 My primary interests are Artificial Intelligence, Machine Learning, and Computer Vision.
 
