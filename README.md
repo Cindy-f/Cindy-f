@@ -13,6 +13,6 @@
 ### Machine Learning Research (Geometry of Space): Austin, TX | Jan 2025 - Dec 2025
 #### Paper accepted at RNAAS: https://iopscience.iop.org/article/10.3847/2515-5172/ae7288
 #### Poster Presentation:
-
+<img width="5289" height="3926" alt="FRI_presentation" src="https://github.com/user-attachments/assets/612d2575-616e-4735-a3bf-14a7fb81b4e0" />
 
 
