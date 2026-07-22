@@ -7,6 +7,7 @@ IBM Software Engineering Intern: NY | May 2026 - August 2026
 
 
 Jane Street Insight Program Participant: NY | Aug 2025
+<img width="4284" height="5712" alt="JS_Insight" src="https://github.com/user-attachments/assets/ee87cbb6-e26b-46a7-bc6d-8b13fe4d4f49" />
 
 
 Machine Learning Researcher: Geometry of Space 
