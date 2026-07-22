@@ -9,6 +9,7 @@
 
 ### Jane Street Insight Program Participant: New York, NY | Aug 2025
 <img width="4284" height="5712" alt="JS_Insight" src="https://github.com/user-attachments/assets/ee87cbb6-e26b-46a7-bc6d-8b13fe4d4f49" />
+<img width="1320" height="971" alt="JS_Group" src="https://github.com/user-attachments/assets/9456fd79-5782-499d-81be-076c74143a1b" />
 
 ### Machine Learning Research (Geometry of Space): Austin, TX | Jan 2025 - Dec 2025
 #### Paper accepted at RNAAS: https://iopscience.iop.org/article/10.3847/2515-5172/ae7288
