@@ -1,5 +1,5 @@
 # Hi, I'm Cindy Fan - Welcome to my Github 💻
-## 🎓 CS + SDS + Math Honors @ UT Austin | May 2028 graduation  
+## 🎓 CS + Math + Statistics and Data Science Honors @ UT Austin | May 2028 graduation  
 
 ## Software & Research Experiences: 
 ### IBM Software Engineering Intern: Poughkeepsie, NY | May 2026 - August 2026
