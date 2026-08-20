@@ -4,7 +4,7 @@
 ## Software & Research Experiences: 
 ### IBM Software Engineering Intern: Poughkeepsie, NY | May 2026 - August 2026
 #### IBM Work Github Contribution Graph:
-<img width="3456" height="2234" alt="IBM github" src="https://github.com/user-attachments/assets/1d3f731e-a586-46b8-8fc0-14b76dbaca87" />. 
+<img width="3456" height="2234" alt="IBM github" src="https://github.com/user-attachments/assets/1d3f731e-a586-46b8-8fc0-14b76dbaca87" /> <br>
 #### IBM Poughkeepsie, NY Office:
 <img width="3088" height="1736" alt="IBM_office" src="https://github.com/user-attachments/assets/536f0ee2-87b1-4ac6-82fa-161d820e4e2b" /> 
 
