@@ -35,3 +35,8 @@
 #### STEM Role Model & Outreach Ambassador: UT Women in STEM summer camp (May 2025 - Oct 2025)
 -Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.  
 -Served as a STEM role model by leading small-group discussions and providing career guidance to 150+ summer campers.  
+
+#### Honors and Awards: 
+• 4 x AIME (American Invitational Mathematics Examination) qualifier: highest score 12.
+• Math Kangaroo Top Gold Award: top 100 among 0.16 million global contestants.
+• Houston Integirls Math Contest 1st Place: competed individually and outperformed all multi-member teams.
