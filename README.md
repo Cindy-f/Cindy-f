@@ -32,6 +32,6 @@
 -Responsible for obtaining and managing external corporate sponsorships.
 -In charge of fund disbursement. -Organized tabling events to promote CS research and recruit new members.
 
-### STEM Role Model & Outreach Ambassador: UT Women in STEM summer camp (May 2025 - Oct 2025)
+#### STEM Role Model & Outreach Ambassador: UT Women in STEM summer camp (May 2025 - Oct 2025)
 -Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.
 -Served as a STEM role model by leading small-group discussions and providing career guidance to 150+ summer campers.
