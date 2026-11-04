@@ -10,7 +10,7 @@
 <img width="3088" height="1736" alt="IBM_office" src="https://github.com/user-attachments/assets/536f0ee2-87b1-4ac6-82fa-161d820e4e2b" /> 
 
 ### Jane Street Insight Program Participant: New York, NY | Aug 2025
-#### Jane Street Badge Photo taken at NYC Office:
+#### Jane Street Badge Photo taken at NYC Office: 1 out of 24 selected participants for SWE track
 <img width="4284" height="5712" alt="JS_Insight" src="https://github.com/user-attachments/assets/ee87cbb6-e26b-46a7-bc6d-8b13fe4d4f49" /> <br>
 #### Jane Street Group Photo:
 <img width="1320" height="971" alt="JS_Group" src="https://github.com/user-attachments/assets/9456fd79-5782-499d-81be-076c74143a1b" /> 
