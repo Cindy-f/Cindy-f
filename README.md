@@ -22,16 +22,16 @@
 
 ### Services and Leaderships:
 #### Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present)
--Organizing outreach logistics by creating sign-up systems and scheduling volunteers.
--Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.
+-Organizing outreach logistics by creating sign-up systems and scheduling volunteers.  
+-Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.  
 
 #### Student Mentor: Polymathic Scholars Honors Program (Apr 2025 - Present)
--Mentoring freshmen in the honors program by providing academic planning guidance and peer support.
+-Mentoring freshmen in the honors program by providing academic planning guidance and peer support.  
 
 #### Corporate Officer: UTCS Directed Reading Program (Apr 2025 - Oct 2025)
--Responsible for obtaining and managing external corporate sponsorships.
--In charge of fund disbursement. -Organized tabling events to promote CS research and recruit new members.
+-Responsible for obtaining and managing external corporate sponsorships.  
+-In charge of fund disbursement. -Organized tabling events to promote CS research and recruit new members.  
 
 #### STEM Role Model & Outreach Ambassador: UT Women in STEM summer camp (May 2025 - Oct 2025)
--Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.
--Served as a STEM role model by leading small-group discussions and providing career guidance to 150+ summer campers.
+-Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.  
+-Served as a STEM role model by leading small-group discussions and providing career guidance to 150+ summer campers.  
